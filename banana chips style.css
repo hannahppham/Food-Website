@@ -1,0 +1,43 @@
+body {
+	background-color: white;
+	color: rgb(0, 122, 255);
+	font-family: "Gotham Book";
+	font-size: 10px;
+	text-align: center;
+	
+}
+
+.wrapper {
+	background-color: white;
+	width: 600px;
+	margin: auto;
+	padding: 30px;
+	line-height: 15px;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+
+a {
+	color: orange;
+	transition: all 1s;
+}
+
+a:hover {
+	color: #cccccc;
+	background-color: none;
+	text-decoration: none;
+	transition: all 1s;
+}
+
+
+.content {
+	margin: 20px;
+}
+
+code {
+	background-color: yellow;
+}
