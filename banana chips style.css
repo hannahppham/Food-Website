@@ -1,17 +1,19 @@
 body {
 	background-color: white;
 	color: rgb(0, 122, 255);
-	font-family: "Gotham Book";
+	font-family: "Calibri";
 	font-size: 10px;
 	text-align: center;
+    background-image: url('bananasss.jpeg');
+    background-color: #cccccc;
 	
 }
 
 .wrapper {
 	background-color: white;
-	width: 600px;
+	width: 900px;
 	margin: auto;
-	padding: 30px;
+	padding: 20px;
 	line-height: 15px;
 }
 
